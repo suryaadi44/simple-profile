@@ -15,7 +15,7 @@
 						<div class="relative">
 							<img
 								alt="..."
-								src="https://storage.cloud.google.com/fortyfour-bucketlab/DSC00152%20edit%20kotak.jpg?authuser=1"
+								src="https://storage.googleapis.com/fortyfour-bucketlab/DSC00152%20edit%20kotak.jpg"
 								class="shadow-xl rounded-full align-middle border-none object-contain max-w-xs"
 							/>
 						</div>
